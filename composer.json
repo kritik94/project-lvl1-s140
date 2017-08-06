@@ -1,0 +1,16 @@
+{
+    "name": "kritik94/brain-games",
+    "description": "Some little cli braing games",
+    "type": "cli",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikita Arhipov",
+            "email": "niktyper13@gmail.com"
+        }
+    ],
+    "bin": [
+      "bin/brain-games"
+    ],
+    "require": {}
+}
